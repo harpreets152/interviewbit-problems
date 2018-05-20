@@ -13,3 +13,25 @@
 
 Solution:
     https://www.geeksforgeeks.org/sort-array-wave-form-2/
+
+
+2:
+
+        Given a read only array of n + 1 integers between 1 and n, find one number that repeats in linear time using less than O(n) space and traversing the stream sequentially O(1) times.
+
+        Sample Input:
+
+        [3 4 1 4 1]
+
+        Sample Output:
+
+        1
+
+        If there are multiple possible answers ( like in the sample case above ), output any one.
+
+        If there is no duplicate, output -1
+        
+ Solution:
+    http://interviewbitsolution.blogspot.in/2016/09/find-duplicate-in-array.html
+    https://www.quora.com/Given-a-stream-of-n-integers-between-1-and-n-find-one-number-that-repeats-in-linear-time-using-less-than-O-n-space-and-traversing-the-stream-sequentially-O-1-times
+    
