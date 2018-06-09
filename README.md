@@ -1,2 +1,2 @@
 # interviewbit-problems
-must do questions on interviewbit
+Topicwise Problems on Interviewbit along with their solutions.
